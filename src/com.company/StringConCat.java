@@ -11,7 +11,7 @@ public class StringConCat {
         newWord = userInput.concat(name.substring(0,3));
         String bread = name.substring(3);
         System.out.println(bread + newWord);
-        //how???
+        //how????
 
     }
 }
