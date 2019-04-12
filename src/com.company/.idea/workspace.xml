@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39cb4275-76d1-4bf5-8032-3d36df7e54b4" name="Default Changelist" comment="practice 4/3/2019">
-      <change afterPath="$PROJECT_DIR$/MakingWaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFavorite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com/operations/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com/operations/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com/operations/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com/operations/.idea/operations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com/operations/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com/operations/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com/operations/MakingWaves1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../com/operations/Operation1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Wordgame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Wordgame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/com.company.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/com.company.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KnowingMyVariables2.java" beforeDir="false" afterPath="$PROJECT_DIR$/KnowingMyVariables2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KnowingMyVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/KnowingMyVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakingWaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/MakingWaves.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,29 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/company/Operation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/company/usingOperations.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaQuiz1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/company/AccessModifiers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -90,6 +58,7 @@
         <option value="$PROJECT_DIR$/com/company/Operation.java" />
         <option value="$PROJECT_DIR$/com/company/usingOperations.java" />
         <option value="$PROJECT_DIR$/com/company/AccessModifiers.java" />
+        <option value="$PROJECT_DIR$/JavaQuiz1.java" />
       </list>
     </option>
   </component>
@@ -113,11 +82,6 @@
               <item name="com.company" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.company" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="com.company" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.company" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -126,7 +90,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554909441994" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555087191174" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -211,14 +175,13 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32872504" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3293718" />
@@ -230,6 +193,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -263,6 +227,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/com/company/Operation.java" />
+    <entry file="file://$PROJECT_DIR$/com/company/usingOperations.java" />
+    <entry file="file://$PROJECT_DIR$/com/company/AccessModifiers.java" />
     <entry file="file://$PROJECT_DIR$/StepUp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -270,24 +237,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/company/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="22" column="75" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/company/usingOperations.java">
+    <entry file="file://$PROJECT_DIR$/JavaQuiz1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/company/AccessModifiers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>

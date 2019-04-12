@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b749d55-dbf6-456d-ba73-6dc0ef978e0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com.company/MakingWaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com.company/MyFavorite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com.company/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Wordgame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/Wordgame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.company/.idea/com.company.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/.idea/com.company.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.company/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.company/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.company/KnowingMyVariables2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/KnowingMyVariables2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.company/KnowingMyVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/KnowingMyVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.company/MakingWaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/MakingWaves.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com.company/AccessModifiers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com.company/KnowingMyVariables.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -103,8 +94,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="ivankcmo" />
         <option value="ivankcmo &lt;48834134+ivankcmo@users.noreply.github.com&gt;" />
+        <option value="ivankcmo" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -118,7 +109,6 @@
         <option value="$PROJECT_DIR$/src/Wordgame.java" />
         <option value="$PROJECT_DIR$/src/com.company/MyFavorite.java" />
         <option value="$PROJECT_DIR$/src/com.company/KnowingMyVariables2.java" />
-        <option value="$PROJECT_DIR$/src/com.company/MakingWaves.java" />
         <option value="$PROJECT_DIR$/src/com.company/Operation.java" />
         <option value="$PROJECT_DIR$/src/com/operations/Operation1.java" />
         <option value="$PROJECT_DIR$/src/com/operations/MakingWaves1.java" />
@@ -127,6 +117,8 @@
         <option value="$PROJECT_DIR$/src/com.company/com/company/WorkingWithModifiers.java" />
         <option value="$PROJECT_DIR$/src/com.company/com/company/DefaultExample.java" />
         <option value="$PROJECT_DIR$/src/com.company/AccessModifiers.java" />
+        <option value="$PROJECT_DIR$/src/com.company/KnowingMyVariables.java" />
+        <option value="$PROJECT_DIR$/src/com.company/MakingWaves.java" />
       </list>
     </option>
   </component>
@@ -171,8 +163,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554919052298" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ivanworkspace" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554920683728" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -327,13 +319,20 @@
       <option name="project" value="LOCAL" />
       <updated>1553886259676</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit java class practice 4 10 2019">
+      <created>1554919263748</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554919263748</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -342,7 +341,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.3293718" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -350,7 +349,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.49848714" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49848714" weight="0.32872504" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -364,7 +363,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Built first String Concat App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Built first String Concat App" />
+    <MESSAGE value="commit java class practice 4 10 2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit java class practice 4 10 2019" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -421,40 +421,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/MakingWaves.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="21" selection-start-line="3" selection-start-column="3" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/operations/MakingWaves1.java" />
     <entry file="file://$PROJECT_DIR$/src/com/operations/Operation1.java" />
-    <entry file="file://$PROJECT_DIR$/src/com.company/protection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/WorkingWithModifiers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/DefaultExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com.company/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -469,17 +437,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/AccessModifiers.java">
+    <entry file="file://$PROJECT_DIR$/src/com.company/protection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.company/DefaultExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.company/WorkingWithModifiers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.company/MakingWaves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com.company/KnowingMyVariables.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.company/AccessModifiers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
