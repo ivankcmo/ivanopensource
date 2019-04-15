@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b749d55-dbf6-456d-ba73-6dc0ef978e0e" name="Default Changelist" comment="">
+    <list default="true" id="1b749d55-dbf6-456d-ba73-6dc0ef978e0e" name="Default Changelist" comment="This are my answers to Basic Java Quiz 1">
+      <change afterPath="$PROJECT_DIR$/src/com.company/SimpleDotCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.company/SimpleDotComTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.company/KnowingMyVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/KnowingMyVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.company/MakingWaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/MakingWaves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.company/Wordgame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.company/Wordgame.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,16 +21,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com.company/AccessModifiers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.company/KnowingMyVariables.java">
+        <entry file="file://$PROJECT_DIR$/src/com.company/SimpleDotComTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret lean-forward="true" />
@@ -38,46 +30,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.company/protection.java">
+        <entry file="file://$PROJECT_DIR$/src/com.company/SimpleDotCom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.company/WorkingWithModifiers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.company/DefaultExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.company/Operation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com.company/usingOperations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            <state relative-caret-position="355">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+              <folding>
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,6 +79,9 @@
         <option value="$PROJECT_DIR$/src/com.company/AccessModifiers.java" />
         <option value="$PROJECT_DIR$/src/com.company/KnowingMyVariables.java" />
         <option value="$PROJECT_DIR$/src/com.company/MakingWaves.java" />
+        <option value="$PROJECT_DIR$/src/com.company/SimpleDotCom.java" />
+        <option value="$PROJECT_DIR$/src/com.company/Wordgame.java" />
+        <option value="$PROJECT_DIR$/src/com.company/SimpleDotComTestDrive.java" />
       </list>
     </option>
   </component>
@@ -136,8 +99,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,7 +126,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554920683728" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555343582242" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -196,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AccessModifiers">
+  <component name="RunManager" selected="Application.SimpleDotComTestDrive">
     <configuration name="AccessModifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.AccessModifiers" />
       <module name="ivanopensource" />
@@ -236,9 +199,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wordgame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Wordgame" />
+    <configuration name="SimpleDotComTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SimpleDotComTestDrive" />
       <module name="ivanopensource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -258,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleDotComTestDrive" />
         <item itemvalue="Application.AccessModifiers" />
         <item itemvalue="Application.WorkingWithModifiers" />
         <item itemvalue="Application.MakingWaves" />
         <item itemvalue="Application.KnowingMyVariables2" />
-        <item itemvalue="Application.Wordgame" />
       </list>
     </recent_temporary>
   </component>
@@ -326,13 +295,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554919263748</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="This are my answers to Basic Java Quiz 1">
+      <created>1555087266080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555087266080</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28214827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,7 +318,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -364,7 +341,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Built first String Concat App" />
     <MESSAGE value="commit java class practice 4 10 2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit java class practice 4 10 2019" />
+    <MESSAGE value="This are my answers to Basic Java Quiz 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="This are my answers to Basic Java Quiz 1" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
@@ -414,15 +392,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/Wordgame.java">
+    <entry file="file://$PROJECT_DIR$/src/com/operations/MakingWaves1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/operations/Operation1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com.company/MakingWaves.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operations/MakingWaves1.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/operations/Operation1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com.company/AccessModifiers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.company/KnowingMyVariables.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.company/protection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.company/WorkingWithModifiers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com.company/DefaultExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com.company/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -437,45 +446,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/protection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/DefaultExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com.company/JavaQuiz1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/WorkingWithModifiers.java">
+    <entry file="file://$PROJECT_DIR$/src/com.company/Wordgame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="119">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/MakingWaves.java">
+    <entry file="file://$PROJECT_DIR$/src/com.company/SimpleDotCom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="355">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/KnowingMyVariables.java">
+    <entry file="file://$PROJECT_DIR$/src/com.company/SimpleDotComTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com.company/AccessModifiers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
