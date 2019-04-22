@@ -5,7 +5,7 @@ public class DogClass {
         switch(""){
             default:{
                 if(age < 2 && weight < 21){
-                    return "small boi";
+                    return "small pup";
                 }
                 else if(age > 1 && weight < 21){
                     return "small boi";
@@ -17,7 +17,7 @@ public class DogClass {
                     return "Big boi";
                 }
                 else if(age < 2 && weight < 51){
-                    return "small chunky boi";
+                    return "chunky pup";
                 }
                 else if(age < 2 && weight > 50){
                     return "bear cub";
